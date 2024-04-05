@@ -1,3 +1,3 @@
-Nome = Cliente1 | Pagos = 100.00 | Pendentes = 50.00 | Perdidos = 0.00 | Status = Pagos
+Nome = Cliente1 | Pagos = 15.896.00 | Pendentes = 15.896.00 | Perdidos = 15.896.00| Status = Pagos
 Nome = Cliente2 | Pagos = 0.00 | Pendentes = 50.00 | Perdidos = 0.00 | Status = Pendentes
 Nome = Cliente3 | Pagos = 100.00 | Pendentes = 0.00 | Perdidos = 0.00 | Status = Pagos
