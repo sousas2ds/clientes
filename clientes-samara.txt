@@ -1,2 +1,1 @@
-Nome = luis augusto | Pagos = 250.320,20  | Pendentes = 150.320,20  | Perdidos = 110.320,20 
-Nome = luis augusto | Pagos = 250.320,20  | Pendentes = 150.320,20  | Perdidos = 110.320,20 
+Nome = José | Valor = 1000.00 | Status = Pago
