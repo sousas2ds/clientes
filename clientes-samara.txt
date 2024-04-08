@@ -1,3 +1,3 @@
-Nome = Samuel Augusto | Pagos = 15.896.00 | Status = Pagos
-Nome = Deyvid Feitosa | Pendentes = 15.896.0 Status = Pendentes
-Nome = Bianca Lino | Perdidos = 15.896.0 | Status = Perdidos
+Nome = Samuel Augusto | Valor = 15.896.00 | Status = Pagos
+Nome = Deyvid Feitosa | valor = 15.896.0 Status = Pendentes
+Nome = Bianca Lino | valor = 15.896.0 | Status = Perdidos
