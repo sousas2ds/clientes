@@ -1,0 +1,17 @@
+[
+  {
+    "Nome": "Samuel Augusto",
+    "Valor": 15896.00,
+    "Status da Venda": "Pagos"
+  },
+  {
+    "Nome": "Deyvid Feitosa",
+    "Valor": 15896.00,
+    "Status da Venda": "Pendentes"
+  },
+  {
+    "Nome": "Bianca Lino",
+    "Valor": 15896.00,
+    "Status da Venda": "Perdidos"
+  }
+]
