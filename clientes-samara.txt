@@ -1,3 +1,0 @@
-Nome = Samuel Augusto | Valor = 15.896.00 | Status da venda = "Pagos"
-Nome = Deyvid Feitosa | Valor = 15.896.00 | Status da venda = "Pendentes"
-Nome = Bianca Lino | Valor = 15.896.00 | Status da venda = "Perdidos"
