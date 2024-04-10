@@ -24,10 +24,35 @@
     "Valor": 31896.00,
     "StatusDaVenda": "Pendentes"
   },
-  {
+   {
+    "Nome": "HUGO Amaral",
+    "Valor": 31896.00,
+    "StatusDaVenda": "Pagos"
+  },
+   {
+    "Nome": "Luiz sousa",
+    "Valor": 31896.00,
+    "StatusDaVenda": "Pagos"
+  },
+   {
+    "Nome": "Augusto Santos Luiz",
+    "Valor": 31896.00,
+    "StatusDaVenda": "Pendentes"
+  },
+   {
     "Nome": "Felipe Amaral",
     "Valor": 31896.00,
     "StatusDaVenda": "Pendentes"
+  },
+  {
+    "Nome": "Felipe Amaral",
+    "Valor": 31896.00,
+    "StatusDaVenda": "Pagos"
+  },
+   {
+    "Nome": "Felipe Amaral",
+    "Valor": 31896.00,
+    "StatusDaVenda": "perdidos"
   },
   {
     "Nome": "Bianca Lino",
