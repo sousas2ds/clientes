@@ -2,13 +2,13 @@
   {
     "Nome": "Samuel Augusto",
     "Valor": 31896.00,
-    "cpf": 414612098-54,
+    "Cpf": "414612098-54",
     "StatusDaVenda": "pagos"
   },
   {
     "Nome": "Deyvid Feitosa",
     "Valor": 15896.00,
-    "cpf": 414612098-54,
+    "Cpf": "414612098-54",
     "StatusDaVenda": "pagos"
-  },
+  }
 ]
