@@ -6,6 +6,18 @@
     "StatusDaVenda": "pagos"
   },
   {
+    "Nome": "Larissa Santos",
+    "Valor": 31896.00,
+    "Cpf": "414612098-54",
+    "StatusDaVenda": "pendentes"
+  },
+  {
+    "Nome": "Jorge Sousa",
+    "Valor": 31896.00,
+    "Cpf": "414612098-54",
+    "StatusDaVenda": "perdidos"
+  },
+  {
     "Nome": "Deyvid Feitosa",
     "Valor": 15896.00,
     "Cpf": "514612398-94",
