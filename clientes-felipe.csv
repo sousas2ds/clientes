@@ -1,7 +1,7 @@
-Nome;Valor;Cpf;StatusDaVenda;
-luiz santos;20896.00;123654987.64;assinados
-augusto santos;20896.00;123654987.64;assinados
-d;20896.00;123654987.64;perdidos
-a;20896.00;123654987.64;pagos
-s;20896.00;123654987.64;perdidos
-j;20896.00;123654987.64;pendentes
+Nome;Valor;Cpf;StatusDaVenda;Consultoras
+g;20896.00;123654987.64;assinados;Rayssa
+h;20896.00;123654987.64;assinados;Andresa
+j;20896.00;123654987.64;perdidos;Rafaella
+k;20896.00;123654987.64;pagos;Maria
+l;20896.00;123654987.64;perdidos;Francisco
+m;20896.00;123654987.64;pendentes;Jorge
