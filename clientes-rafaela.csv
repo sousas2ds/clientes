@@ -1,7 +1,7 @@
 Nome;Valor;Cpf;StatusDaVenda;Consultoras;
-Alice;25000.00;987654321.09;assinados;Ana
-Bob;25000.00;987654321.09;assinados;Pedro
-Carol;25000.00;987654321.09;perdidos;Mariana
-David;25000.00;987654321.09;pagos;Lucas
-Eva;25000.00;987654321.09;perdidos;Carla
-Fernando;25000.00;987654321.09;pendentes;Renata
+Alice;25000.00;987654321.09;assinados;Ana;Rafaela
+Bob;25000.00;987654321.09;assinados;Pedro;Rafaela
+Carol;25000.00;987654321.09;perdidos;Mariana;Rafaela
+David;25000.00;987654321.09;pagos;Lucas;Rafaela
+Eva;25000.00;987654321.09;perdidos;Carla;Rafaela
+Fernando;25000.00;987654321.09;pendentes;Renata;Rafaela
