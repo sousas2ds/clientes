@@ -1,7 +1,7 @@
-Nome;Valor;Cpf;StatusDaVenda;
-q;20896.00;123654987.64;assinados
-w;20896.00;123654987.64;assinados
-e;20896.00;123654987.64;perdidos
-r;20896.00;123654987.64;pagos
-t;20896.00;123654987.64;perdidos
-u;20896.00;123654987.64;pendentes
+Nome;Valor;Cpf;StatusDaVenda;Consultoras
+q;20896.00;123654987.64;assinados;Rayssa
+w;20896.00;123654987.64;assinados;Andresa
+e;20896.00;123654987.64;perdidos;Rafaella
+r;20896.00;123654987.64;pagos;Maria
+t;20896.00;123654987.64;perdidos;Francisco
+u;20896.00;123654987.64;pendentes;Jorge
