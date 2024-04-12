@@ -1,4 +1,4 @@
-Nome;Valor;CPF;StatusDaVenda;Consultoras
+Nome;Valor;CPF;StatusDaVenda;Consultoras;
 Ana;2500.00;12345678901;pagos;rafaela
 João;3200.50;23456789012;pendentes;rafaela
 Maria;1850.75;34567890123;perdidos;rafaela
