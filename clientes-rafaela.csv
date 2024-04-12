@@ -1,8 +1,7 @@
-Nome;Valor;CPF;StatusDaVenda;Consultoras;
-g;20896.00;123654987.64;assinados;rafaela
-h;20896.00;123654987.64;assinados;rafaela
-i;20896.00;123654987.64;perdidos;rafaela
-j;20896.00;123654987.64;pagos;rafaela
-k;20896.00;123654987.64;perdidos;rafaela
-l;20896.00;123654987.64;pendentes;rafaela
-m;20896.00;123654987.64;assinados;rafaela
+Nome;Valor;Cpf;StatusDaVenda;Consultoras;
+gj;20896.00;123654987.64;assinados;rafaela
+jj;20896.00;123654987.64;assinados;rafaela
+jj;20896.00;123654987.64;perdidos;rafaela
+kj;20896.00;123654987.64;pagos;rafaela
+lj;20896.00;123654987.64;perdidos;rafaela
+mj;20896.00;123654987.64;pendentes;rafaela
