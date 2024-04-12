@@ -1,3 +1,7 @@
 Nome;Valor;Cpf;StatusDaVenda
 luiz santos;20896.00;123654987.64;assinados
 augusto santos;20896.00;123654987.64;assinados
+1;20896.00;123654987.64;perdidos
+2;20896.00;123654987.64;pagos
+3;20896.00;123654987.64;perdidos
+4;20896.00;123654987.64;pendentes
