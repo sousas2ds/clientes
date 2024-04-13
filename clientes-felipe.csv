@@ -1,2 +1,11 @@
 Nome;Valor;Cpf;StatusDaVenda;Consultoras;
-gsk;20896.00;123654987-64;assinados;felipe
+samsung;20896.00;123654987-64;assinados;felipe
+apple;16547.23;876543210-32;assinados;maria
+microsoft;30985.76;135792468-76;assinados;joao
+google;17890.50;246801357-98;assinados;carlos
+amazon;24567.89;987654321-54;assinados;ana
+facebook;12876.43;543216789-21;assinados;lucas
+netflix;19345.67;678901234-87;assinados;marina
+twitter;21345.21;432109876-43;assinados;pedro
+tesla;28765.34;109876543-09;assinados;julia
+spacex;33245.98;210987654-65;assinados;mateus
