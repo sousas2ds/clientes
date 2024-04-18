@@ -1,8 +1,8 @@
 Nome;Valor;Cpf;StatusDaVenda;Consultoras;
 Ana;22000.00;70841235698.45;pagos;felipe
-Lucas;19500.00;41239087654.32;pagos;felipe
-Juliana;18250.00;93562018743.88;pagos;felipe
-Marcos;20500.00;50987623418.76;pagos;felipe
+Lucas;19500.00;41239087654.32;pendentes;felipe
+Juliana;18250.00;93562018743.88;perdidos;felipe
+Marcos;20500.00;50987623418.76;assinados;felipe
 Camila;19800.00;61840793276.54;pagos;felipe
 Rafael;19000.00;73549812765.43;pagos;felipe
 Larissa;21000.00;42689750321.09;pagos;felipe
