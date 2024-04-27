@@ -1,5 +1,5 @@
 Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras
-Emma Costa;987654321428;3698521470;25/11/2023;;920000.00;assinados;Felipe;
+Emma Costa;987654321428;3698521470;25/11/2023;21;920000.00;assinados;Felipe;
 deyvid robson;789654123-12;1234567891;21/04/2024;21;20000.00;pagos;felipe;
 asdasdasdas;414612098-54;7418529631;25/04/2024;21;14,200.00;pendentes;felipe;
 teste 1 teste 2;111111111111;1111111111;25/04/2024;21;15300.00;pagos;felipe;
