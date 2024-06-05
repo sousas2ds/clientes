@@ -1,4 +1,4 @@
-id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto
+id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto;PrePagamento;
 71;GERSON BELTRAMO;00888717890;2184393279;07/03/2024;41;12000.00;Assinados;Ana Julia;07/05/2024;Novo
 72;JOAO EVANGELISTA;30598141120;2194121166;05/03/2024;41;12000.00;Assinados;ANA JULIA;09/05/2024;Novo
 123;ELIECI CLEMENTE;42622530234;7143986322;24/03/2024;88;18016.10;Assinados;ANA JULIA;14/05/2024;Novo
