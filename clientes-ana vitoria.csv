@@ -1,4 +1,4 @@
-id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto
+id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto;PrePagamento;
 13;NEIDE APARECIDA;08392203836;1699086769;30/09/2014;42;8180.86;Pagos;ANA VITORIA;29/04/2024;Portabilidade
 14;NEIDE APARECIDA;08392203836;1699086769;30/09/2014;42;5369.31;Pagos;ANA VITORIA;29/04/2024;Portabilidade
 15;JOSIAS COELHO;44720505953;7132811429;16/08/2023;88;16380.21;Perdidos;ANA VITORIA;30/04/2024;Portabilidade
