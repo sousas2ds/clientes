@@ -1,4 +1,4 @@
-id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto
+id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto;PrePagamento;
 96;JACIRENE SANTOS;77124626234;2233831742;25/03/2024;41;20967.74;Assinados;Sandy;08/05/2024;Novo
 97;FRANCIENE FERREIRA;476081025;7142556553;26/03/2024;87;17934.31;Assinados;Sandy;08/05/2024;Novo
 98;SILVANY NUNES ;27730204215;7134264140;28/03/2024;87;17934.31;Assinados;Sandy;08/05/2024;Novo
