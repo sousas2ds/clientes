@@ -1,4 +1,4 @@
-id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto
+id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto;PrePagamento;
 81;GRACILIANO VALENTIM;48452521553;2244450230 ;26/03/2024;41;8000.00;Assinados;Marcela;07/05/2024;Novo
 82;VIVIAN CARLA;30864842848;2150873413;25/03/2024;21;21279.35;Assinados;Marcela;07/05/2024;Novo
 83;DOMINGAS DE SOUSA ;01786388111;2235168900;04/03/2024;41;20967.74;Pendentes;Marcela;08/05/2024;Novo
