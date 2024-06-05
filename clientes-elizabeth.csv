@@ -1,4 +1,4 @@
-id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto
+id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto;PrePagamento;
 75;CARLOS ALBERTO;1177587874;7147559810;26/03/2024;88;17943.50;Assinados;ELIZABETH;07/05/2024;Novo
 76;ELIZABETH MARIA;11024626830;2089885119;25/03/2024;87;11350.00;Assinados;ELIZABETH;07/05/2024;Novo
 77;MARIA DA GLORIA;21164398504;7138017473;05/03/2024;87;17500.00;Assinados;ELIZABETH;09/05/2024;Novo
