@@ -1,1 +1,3 @@
 id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto;PrePagamento
+999;felipe teste1;08392203836;1699086769;30/03/2014;42;8180.86;Pagos;FELIPE;30/04/2024;Portabilidade;30/06/2024
+1000;felipe teste2;08392203836;1699086769;30/03/2014;42;8180.86;Pagos;FELIPE;30/04/2024;Portabilidade;30/07/2024
