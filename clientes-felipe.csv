@@ -1,6 +1,6 @@
 id;Nome;Cpf;Beneficio;Ddb;Especie;Valor;StatusDaVenda;Consultoras;Digitado;Produto;PrePagamento;Banco
 9888;1 teste;41461209854;2089889329;23/05/2024;87;10999.84;Pagos;FELIPE;02/07/2024;Portabilidade;23/09/2024;Banco do Brasil S.A. (001)
-9889;2 teste;41461209854;2089889329;23/05/2024;87;1999.84;Pagos;FELIPE;02/07/2024;Portabilidade;23/09/2024;Caixa Econômica Federal (104)
+9889;2 teste;41461209854;2089889329;23/05/2024;87;11999.84;Pagos;FELIPE;02/07/2024;Portabilidade;23/09/2024;Caixa Econômica Federal (104)
 9890;3 teste;41461209854;2089889329;23/05/2024;87;25617.84;Pagos;FELIPE;02/07/2024;Portabilidade;23/09/2024;Itaú Unibanco S.A. (341)
 9891;4 teste;41461209854;2089889329;23/05/2024;87;9832.84;Pagos;FELIPE;02/07/2024;Portabilidade;23/09/2024;Banco Bradesco S.A. (237)
 9892;5 teste;41461209854;2089889329;23/05/2024;87;11421.84;Pagos;FELIPE;02/07/2024;Portabilidade;23/09/2024;Banco BMG S.A. (318)
